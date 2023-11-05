@@ -5,6 +5,7 @@ public class Price {
         public static double priceCalculation(double price, int count) {
             double result =price * count ;
             System.out.println(result);
+            System.out.println(result);
             return result;
 
         }
